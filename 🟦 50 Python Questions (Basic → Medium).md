@@ -113,14 +113,3 @@ Output → [5,1,2,3,4]
 
 Q49. Write a program to remove all occurrences of a given element from the list.
 Q50. Write a Python program to check valid email (simple logic, not regex).
-❤️ Want the Answer Key?
-
-If you want, I can send:
-
-✔ Full answers
-✔ Only output questions
-✔ Only coding answers
-✔ Difficulty-wise solutions
-✔ More questions (100+ list)
-
-Just tell me “give answers” or “give more questions”.
